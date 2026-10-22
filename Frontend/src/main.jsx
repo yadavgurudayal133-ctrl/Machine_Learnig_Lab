@@ -7,7 +7,7 @@ import {
 } from "lucide-react";
 import "./style.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://machine-learnig-lab-backend.onrender.com";
 const icons = [BookOpen, Code2, ClipboardCheck, ChartNoAxesCombined];
 
 function App() {
